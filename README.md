@@ -56,7 +56,7 @@ I will continue improving my knowledge about how to use APIs and the best way to
 
 ### Useful resources
 
--   [Scrimba](www.scrimba.com) - The Scrimba course _Learn React for free with Bob Ziroll_ has been a great resource to improve my knowledge about both React and interactions with APIs.
+-   [Scrimba](https://scrimba.com/) - The Scrimba course _Learn React for free with Bob Ziroll_ has been a great resource to improve my knowledge about both React and interactions with APIs.
 
 ## Author
 
