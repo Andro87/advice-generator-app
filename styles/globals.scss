@@ -1,0 +1,33 @@
+@import "./variables.scss";
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: "manrope";
+    src: url("../public/fonts/Manrope-ExtraBold.ttf");
+    font-weight: 800;
+}
+
+:root {
+    --DarkBlue: hsla(219, 22%, 16%, 1);
+    --DarkGreyishBlue: hsla(217, 19%, 24%, 1);
+    --NeoGreen: hsla(150, 100%, 66%, 1);
+    --LightCyan: hsla(193, 38%, 86%, 1);
+}
+
+body {
+    font-family: "manrope";
+}
+
+h1 {
+    font-size: 11px;
+    color: var(--NeoGreen);
+    letter-spacing: 3.45px;
+    @media screen and (min-width: $tablet) {
+        font-size: 13px;
+    }
+}
