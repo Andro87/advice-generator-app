@@ -40,6 +40,7 @@ const Card: React.FunctionComponent = () => {
             <button
                 className={styles.button}
                 type="button"
+                title="dice"
                 onClick={getRandomQuote}
             >
                 <Dice />
