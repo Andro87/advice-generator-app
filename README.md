@@ -27,11 +27,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Advice Generator App](./images/screenshot.png)
+![Advice Generator App](./public/images/screenshot.png)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
+-   Solution URL: [Add solution URL here](https://github.com/Andro87/advice-generator-app.git)
 -   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -56,7 +56,7 @@ I will continue improving my knowledge about how to use APIs and the best way to
 
 ### Useful resources
 
--   [Scrimba](https://www.example.com) - The Scrimba course _Learn React for free with Bob Ziroll_ has been a great resource to improve my knowledge about both React and interactions with APIs.
+-   [Scrimba](www.scrimba.com) - The Scrimba course _Learn React for free with Bob Ziroll_ has been a great resource to improve my knowledge about both React and interactions with APIs.
 
 ## Author
 
